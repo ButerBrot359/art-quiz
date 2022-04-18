@@ -1,0 +1,53 @@
+@media (max-width: 1050px) {
+    body {
+        .container {
+            width: 768px;
+        }
+        .popup {
+            .popup_body {
+                .popup_content.popup_content_settings {
+                    .setting_type { 
+                        height: 400px;
+                        .setting_item {
+                            font-size: 70px;
+                        }
+                        .input_setting {
+                            font-size: 10px;
+                        }
+                        .setting_type_name {
+                            font-size: 40px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+
+@media (max-width: 770px) {
+    body {
+        .container {
+            width: 420px;
+        }
+        .popup {
+            .popup_body {
+                .popup_content.popup_content_settings {
+                    .setting_type { 
+                        height: 400px;
+                        .setting_item {
+                            font-size: 70px;
+                        }
+                        .input_setting {
+                            font-size: 10px;
+                        }
+                        .setting_type_name {
+                            font-size: 40px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
